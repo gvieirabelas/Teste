@@ -1,0 +1,12 @@
+C:\Users\gviei\source\repos\Tijolos\Tijolos\bin\Debug\netcoreapp3.1\Tijolos.exe
+C:\Users\gviei\source\repos\Tijolos\Tijolos\bin\Debug\netcoreapp3.1\Tijolos.deps.json
+C:\Users\gviei\source\repos\Tijolos\Tijolos\bin\Debug\netcoreapp3.1\Tijolos.runtimeconfig.json
+C:\Users\gviei\source\repos\Tijolos\Tijolos\bin\Debug\netcoreapp3.1\Tijolos.runtimeconfig.dev.json
+C:\Users\gviei\source\repos\Tijolos\Tijolos\bin\Debug\netcoreapp3.1\Tijolos.dll
+C:\Users\gviei\source\repos\Tijolos\Tijolos\bin\Debug\netcoreapp3.1\Tijolos.pdb
+C:\Users\gviei\source\repos\Tijolos\Tijolos\obj\Debug\netcoreapp3.1\Tijolos.csprojAssemblyReference.cache
+C:\Users\gviei\source\repos\Tijolos\Tijolos\obj\Debug\netcoreapp3.1\Tijolos.AssemblyInfoInputs.cache
+C:\Users\gviei\source\repos\Tijolos\Tijolos\obj\Debug\netcoreapp3.1\Tijolos.AssemblyInfo.cs
+C:\Users\gviei\source\repos\Tijolos\Tijolos\obj\Debug\netcoreapp3.1\Tijolos.dll
+C:\Users\gviei\source\repos\Tijolos\Tijolos\obj\Debug\netcoreapp3.1\Tijolos.pdb
+C:\Users\gviei\source\repos\Tijolos\Tijolos\obj\Debug\netcoreapp3.1\Tijolos.genruntimeconfig.cache

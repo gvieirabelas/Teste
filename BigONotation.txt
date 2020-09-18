@@ -1,0 +1,9 @@
+Big O Notation:
+
+
+De acordo com o problema:
+Temos uma Matriz X, onde precisamos varrê-la e encontrar o menor numero de ocorrências de possíveis cortes no eixo Y com base na posição X
+Conforme o eixo X aumenta, a complexidade (n) aumenta, e conforme o eixo Y aumenta a complexidade (n) também aumenta.
+
+Com base nas informações podemos notar que é um problema n², como precisamos identificar primeiramente o maior numero de ocorrencias, para depois filtrá-los e encontrar a menor delas
+podemos considerar  n² + n, porém deixamos o termo menos significante de lado, teremos a complexidade O(n²)
